@@ -19,7 +19,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 BOT_TOKEN = "8954722038:AAEnMgBh8fcVBETUneE7DVq5cE2wlNZkLik"
 
 # آیدی پشتیبانی بدون @
-SUPPORT_USERNAME = "@D4RKDRAGUN"
+SUPPORT_USERNAME = "D4RKDRAGUN"
 
 # کانال جوین اجباری
 FORCE_CHANNEL_USERNAME = "@Hack_R4ei30"
